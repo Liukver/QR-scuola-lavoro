@@ -5,6 +5,7 @@ body {
 }
 .titolo {
     font-size: 200%;
+    font-weight: bold;
     text-align:center;
     margin:0em;
     background-color:#34a768;
