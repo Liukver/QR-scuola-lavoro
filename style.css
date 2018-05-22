@@ -67,7 +67,7 @@ td, th {
 }
 #piede{
     padding:1em;
-    background-color: black;
-    color:white;
+    background-color: gray;
+    color:black;
     text-align:right;
 }
