@@ -3,7 +3,7 @@ body {
     margin:0px;
     font-family: arial;
 }
-.titolo {
+#titolo {
     font-size: 200%;
     font-weight: bold;
     text-align:center;
@@ -23,7 +23,7 @@ body {
 #oca img{
     width:100%;
 }
-.titolo_storia {
+#titolo_storia {
     font-size: 130%;
     font-weight:bold;
     text-align:center;
@@ -32,7 +32,7 @@ body {
     background-color:#ddd;
       padding:0.2em;
 }
-.testo_storia {
+#testo_storia {
     font-size: 100%;
     text-align:center;
     margin:0em;
