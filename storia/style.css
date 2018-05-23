@@ -45,7 +45,8 @@ h5 {
 }
 
 #piede{
-    padding:1em;
+    padding-top: 1em;
+    padding:0em;
     background-color: #dddddd;
     color:black;
     text-align:right;
