@@ -1,0 +1,19 @@
+body {
+  background-color: #fecf4d;
+}
+
+#titolo {
+  text-align: center;
+}
+
+#contenuto {
+  text-align: left;
+}
+
+#obiettivi {
+  text-align: center;
+}
+
+#contenuto_obiettivi {
+  text-align: left;
+}
