@@ -14,6 +14,6 @@ td, th {
     padding: 0.3em;
 }
 
-.immagine img{
+.immagine, immag1ne img{
     width:100%;
 }
