@@ -21,3 +21,10 @@ td {
 body {
   background-color: goldenrod;
 }
+
+#piede{
+    padding:1em;
+    background-color: #dddddd;
+    color:black;
+    text-align:right;
+}
