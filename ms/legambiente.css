@@ -1,5 +1,18 @@
 .carlo{}
 
+#oca {
+    float:left;
+    width:10%;
+    margin:0.4em;
+    padding:0.2em;
+    background-color:#fecf4d;
+    border-radius: 1em;
+}
+
+#oca img{
+    width:100%;
+}
+
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
