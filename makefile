@@ -10,3 +10,8 @@ start:
 
 stop:
 	@docker kill server
+
+FL:=find -maxdepth 0 -type d -not -path "./QR" -not -path "./.git" -printf "%P
+
+qr:
+	shell $(FL)

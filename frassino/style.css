@@ -1,0 +1,23 @@
+.titolo {
+  color: green;
+}
+
+.tabella {
+  margin: 1em;
+}
+
+table, th, td {
+    text-align: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+td {
+  text-align: left;
+  padding: 1em;
+}
+
+body {
+  background-color: goldenrod;
+}

@@ -1,0 +1,32 @@
+.carlo{}
+
+#oca {
+    float:left;
+    width:10%;
+    margin:0.4em;
+    padding:0.2em;
+    background-color:#fecf4d;
+    border-radius: 1em;
+}
+
+#oca img{
+    width:100%;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #fff;
+
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 0.3em;
+}
+
+.immagine img{
+    width:100%;
+}
