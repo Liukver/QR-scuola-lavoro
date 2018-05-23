@@ -75,8 +75,13 @@ td, th {
     padding: 0.3em;
 }
 
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
 #piede{
-    padding:1em;
+    padding-top: 1em;
+    padding:0em;
     background-color: #dddddd;
     color:black;
     text-align:right;
