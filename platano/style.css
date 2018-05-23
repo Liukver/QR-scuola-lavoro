@@ -80,8 +80,7 @@ tr:nth-child(even) {
 }
 
 #piede{
-    padding-top: 1em;
-    padding:0em;
+    padding:1em;
     background-color: #dddddd;
     color:black;
     text-align:right;
