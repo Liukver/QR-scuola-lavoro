@@ -1,11 +1,13 @@
 body {
     font-family:arial;
-    text-align:justify;
-    padding:1em;
+    text-align:justify; 
     margin:0;
 }
 
 
+#contenuto {
+    margin:1em;
+}
 
 #ochetta img{
     width:40%;
@@ -41,6 +43,7 @@ h5 {
 }
 
 #piede{
+    margin-top:1em;
     padding:1em;
     background-color: #dddddd;
     color:black;
